@@ -7,7 +7,7 @@ A knowledge graph connecting three philosophical texts across seventeen centurie
 
 ## Overview
 
-This project transforms philosophical texts into an interconnected knowledge graph using [iwe](https://iwe.md), a CLI tool for managing markdown document graphs with inclusion links.
+This project transforms philosophical texts into an interconnected knowledge graph using [IWE](https://iwe.md), a CLI tool for managing markdown document graphs with inclusion links.
 
 The graph is **hierarchical** with **polyhierarchy support**—documents can belong to multiple parent documents simultaneously. A concept like "virtue" can appear under both a book index and a thematic category, reflecting how knowledge naturally connects across domains.
 
@@ -384,7 +384,7 @@ Each category becomes a document containing inclusion links to its member concep
 
 For example, the [philosophers](graph/philosophers.md) category includes [Plato](graph/plato.md), [Socrates](graph/socrates.md), [Aristotle](graph/aristotle.md), and dozens more.
 
-The blank lines between links are required by iwe syntax for inclusion links (block references).
+The blank lines between links are required by IWE syntax for inclusion links (block references).
 
 ### Stage 5: Writing Summaries
 
@@ -414,7 +414,7 @@ These summaries transform simple backlink indexes into valuable comparative anal
 
 ## Usage
 
-Requires [iwe](https://github.com/iwe-org/iwe) CLI.
+Requires the [IWE](https://github.com/iwe-org/iwe) CLI.
 
 ``` bash
 iwe find                           # List all documents
@@ -426,6 +426,6 @@ iwe stats                          # Graph statistics
 
 ## Related Projects
 
-- [iwe](https://iwe.md) — CLI for markdown document graphs
+- [IWE](https://iwe.md) — CLI for markdown document graphs
 - [iwe.md](https://iwe.md) — Documentation and website
 - [Standard Ebooks](https://standardebooks.org/) — Source texts
