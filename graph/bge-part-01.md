@@ -1,4 +1,4 @@
-# I. Prejudices of Philosophers
+# 🧐 I. Prejudices of Philosophers
 
 [1](bge-001.md)
 

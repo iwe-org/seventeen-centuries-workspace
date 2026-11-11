@@ -1,4 +1,4 @@
-# II. The Free Spirit
+# 🕊️ II. The Free Spirit
 
 [24](bge-024.md)
 

@@ -1,4 +1,4 @@
-# Power Dynamics
+# 🗡️ Power Dynamics
 
 ## Summary
 

@@ -1,4 +1,4 @@
-# Paradoxes
+# ♾️ Paradoxes
 
 ## Summary
 

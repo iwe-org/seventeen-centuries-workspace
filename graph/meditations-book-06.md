@@ -1,4 +1,4 @@
-# Book VI
+# 📜 Book VI
 
 [VI.1](meditations-006-001.md)
 

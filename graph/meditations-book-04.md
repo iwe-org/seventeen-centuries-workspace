@@ -1,4 +1,4 @@
-# Book IV
+# 📜 Book IV
 
 [IV.1](meditations-004-001.md)
 

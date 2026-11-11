@@ -1,4 +1,4 @@
-# Book IX
+# 📜 Book IX
 
 [IX.1](meditations-009-001.md)
 

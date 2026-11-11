@@ -1,4 +1,4 @@
-# Seventeen Centuries
+# 🏛️ Seventeen Centuries
 
 Three books, seventeen centuries apart, as one knowledge graph: Marcus Aurelius's *Meditations* (around 170 AD), Machiavelli's *The Prince* (1513) and Nietzsche's *Beyond Good and Evil* (1886). Every aphorism, passage and chapter is its own document, and more than 300 concept documents (virtue, power, fortune, the will to power, Socrates, Caesar) link the places where the three authors meet.
 

@@ -1,4 +1,4 @@
-# IV. Apophthegms and Interludes
+# ✒️ IV. Apophthegms and Interludes
 
 [63](bge-063.md)
 

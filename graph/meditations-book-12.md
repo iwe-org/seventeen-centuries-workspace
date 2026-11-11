@@ -1,4 +1,4 @@
-# Book XII
+# 📜 Book XII
 
 [XII.1](meditations-012-001.md)
 

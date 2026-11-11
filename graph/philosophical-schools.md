@@ -1,4 +1,4 @@
-# Philosophical Schools
+# 🏫 Philosophical Schools
 
 ## Summary
 

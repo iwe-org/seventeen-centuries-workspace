@@ -1,4 +1,4 @@
-# Meditations
+# 📜 Meditations
 
 ## Books
 

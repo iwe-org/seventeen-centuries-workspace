@@ -3,6 +3,15 @@
 All notable changes to this template are documented here. The format is based on
 [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [1.1.0]
+
+### Changed
+
+- Every hub's title starts with an emoji, which the iWe sidebar draws as the
+  hub's icon: the start page, Categories and each category, the three books,
+  the twelve books of the *Meditations* and the nine parts of *Beyond Good and
+  Evil*.
+
 ## [1.0.1]
 
 ### Added

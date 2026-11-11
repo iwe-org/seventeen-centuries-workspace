@@ -1,4 +1,4 @@
-# Book VII
+# 📜 Book VII
 
 [VII.1](meditations-007-001.md)
 
