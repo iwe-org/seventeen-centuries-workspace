@@ -1,0 +1,8 @@
+format = 1
+id = "seventeen-centuries"
+name = "Seventeen Centuries"
+description = "Marcus Aurelius, Machiavelli and Nietzsche as one graph: every passage a document, linked through 300+ shared concepts."
+version = "1.0.0"
+authors = ["iWe"]
+license = "CC-BY-4.0"
+exclude = ["README.md", "CHANGELOG.md"]
