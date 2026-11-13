@@ -1,4 +1,4 @@
-# Book X
+# 📜 Book X
 
 [X.1](meditations-010-001.md)
 

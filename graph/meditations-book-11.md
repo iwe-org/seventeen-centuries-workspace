@@ -1,4 +1,4 @@
-# Book XI
+# 📜 Book XI
 
 [XI.1](meditations-011-001.md)
 

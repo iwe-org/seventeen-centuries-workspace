@@ -1,4 +1,4 @@
-# Book III
+# 📜 Book III
 
 [III.1](meditations-003-001.md)
 

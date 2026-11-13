@@ -1,4 +1,4 @@
-# IX. What Is Noble?
+# 🦁 IX. What Is Noble?
 
 [257](bge-257.md)
 

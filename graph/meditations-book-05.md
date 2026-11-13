@@ -1,4 +1,4 @@
-# Book V
+# 📜 Book V
 
 [V.1](meditations-005-001.md)
 

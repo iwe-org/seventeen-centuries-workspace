@@ -1,4 +1,4 @@
-# VI. We Scholars
+# 🎓 VI. We Scholars
 
 [204](bge-204.md)
 

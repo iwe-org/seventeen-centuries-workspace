@@ -1,4 +1,4 @@
-# Nietzschean Concepts
+# ⚡ Nietzschean Concepts
 
 ## Summary
 

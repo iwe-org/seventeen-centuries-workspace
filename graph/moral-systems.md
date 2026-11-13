@@ -1,4 +1,4 @@
-# Moral Systems
+# ⚖️ Moral Systems
 
 ## Summary
 

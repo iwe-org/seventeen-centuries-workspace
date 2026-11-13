@@ -1,4 +1,4 @@
-# Book II
+# 📜 Book II
 
 [II.1](meditations-002-001.md)
 

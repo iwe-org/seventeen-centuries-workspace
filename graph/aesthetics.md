@@ -1,4 +1,4 @@
-# Aesthetics
+# 🎨 Aesthetics
 
 ## Summary
 

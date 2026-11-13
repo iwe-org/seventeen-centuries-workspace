@@ -1,4 +1,4 @@
-# Book VIII
+# 📜 Book VIII
 
 [VIII.1](meditations-008-001.md)
 

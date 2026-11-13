@@ -1,4 +1,4 @@
-# VII. Our Virtues
+# 🎭 VII. Our Virtues
 
 [214](bge-214.md)
 

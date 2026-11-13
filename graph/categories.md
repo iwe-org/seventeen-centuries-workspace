@@ -1,4 +1,4 @@
-# Categories
+# 🗂️ Categories
 
 [Aesthetics](aesthetics.md)
 

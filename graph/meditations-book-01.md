@@ -1,4 +1,4 @@
-# Book I
+# 📜 Book I
 
 [I.1](meditations-001-001.md)
 
