@@ -25,3 +25,13 @@ If, therefore, your illustrious house wishes to follow these remarkable men who 
 And although Swiss and Spanish infantry may be considered very formidable, nevertheless there is a defect in both, by reason of which a third order would not only be able to oppose them, but might be relied upon to overthrow them. For the Spaniards cannot resist cavalry, and the Switzers are afraid of infantry whenever they encounter them in close combat. Owing to this, as has been and may again be seen, the Spaniards are unable to resist French cavalry, and the Switzers are overthrown by Spanish infantry. And although a complete proof of this latter cannot be shown, nevertheless there was some evidence of it at the battle of Ravenna, when the Spanish infantry were confronted by German battalions, who follow the same tactics as the Swiss; when the Spaniards, by agility of body and with the aid of their shields, got in under the pikes of the Germans and stood out of danger, able to attack, while the Germans stood helpless, and, if the cavalry had not dashed up, all would have been over with them. It is possible, therefore, knowing the defects of both these infantries, to invent a new one, which will resist cavalry and not be afraid of infantry; this need not create a new order of arms, but a variation upon the old. And these are the kind of improvements which confer reputation and power upon a new prince.
 
 This opportunity, therefore, ought not to be allowed to pass for letting Italy at last see her liberator appear. Nor can one express the love with which he would be received in all those provinces which have suffered so much from these foreign scourings, with what thirst for revenge, with what stubborn faith, with what devotion, with what tears. What door would be closed to him? Who would refuse obedience to him? What envy would hinder him? What Italian would refuse him homage? To all of us this barbarous dominion stinks. Let, therefore, your illustrious house take up this charge with that courage and hope with which all just enterprises are undertaken, so that under its standard our native country may be ennobled, and under its auspices may be verified that saying of Petrarch:
+
+> Virtu contro al Furore\
+> Prendera l'arme, e fia il combatter corto:\
+> Che l'antico valore\
+> Negli italici cuor non e ancor morto.
+
+> Virtue against fury shall advance the fight,\
+> And it i' th' combat soon shall put to flight:\
+> For the old Roman valour is not dead,\
+> Nor in th' Italians' brests extinguished.

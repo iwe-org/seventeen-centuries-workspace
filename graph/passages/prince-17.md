@@ -10,6 +10,9 @@ Coming now to the other qualities mentioned above, I say that every prince ought
 
 And of all princes, it is impossible for the new prince to avoid the imputation of cruelty, owing to new states being full of dangers. Hence Virgil, through the mouth of Dido, excuses the inhumanity of her reign owing to its being new, saying:
 
+> "Res dura, et regni novitas me talia cogunt Moliri,\
+> et late fines custode tueri."
+
 Nevertheless he ought to be slow to believe and to act, nor should he himself show fear, but proceed in a temperate manner with prudence and humanity, so that too much confidence may not make him incautious and too much distrust render him intolerable.
 
 Upon this a question arises: whether it be better to be loved than feared or feared than loved? It may be answered that one should wish to be both, but, because it is difficult to unite them in one person, it is much safer to be feared than loved, when, of the two, either must be dispensed with. Because this is to be asserted in general of men, that they are ungrateful, fickle, false, cowardly, covetous, and as long as you succeed they are yours entirely; they will offer you their blood, property, life, and children, as is said above, when the need is far distant; but when it approaches they turn against you. And that prince who, relying entirely on their promises, has neglected other precautions, is ruined; because friendships that are obtained by payments, and not by greatness or nobility of mind, may indeed be earned, but they are not secured, and in time of need cannot be relied upon; and men have less scruple in offending one who is beloved than one who is feared, for love is preserved by the link of obligation which, owing to the baseness of men, is broken at every opportunity for their advantage; but fear preserves you by a dread of punishment which never fails.
