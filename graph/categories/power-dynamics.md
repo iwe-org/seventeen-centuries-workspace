@@ -18,11 +18,7 @@ Power and its distribution form a central preoccupation across these works. Mach
 
 [Pathos of Distance](../concepts/pathos-of-distance.md)
 
-[Rank](../concepts/rank.md)
-
-[Distinction of Rank](../concepts/distinction-of-rank.md)
-
-[Gradations of Rank](../concepts/gradations-of-rank.md)
+[Order of Rank](../concepts/rank.md)
 
 [Aristocracy](../concepts/aristocracy.md)
 
@@ -31,8 +27,6 @@ Power and its distribution form a central preoccupation across these works. Mach
 [Noble Caste](../concepts/noble-caste.md)
 
 [Nobility](../concepts/nobility.md)
-
-[Nobleness](../concepts/nobleness.md)
 
 [Master](../concepts/master.md)
 

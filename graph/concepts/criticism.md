@@ -8,7 +8,7 @@ works:
 
 ## Summary
 
-Nietzsche contests the positivist and Kantian reduction of philosophy to criticism and critical science alone. While the philosophers of the future will employ critical discipline and make use of experiments with rigorous self-responsibility, they resist being called mere critics. Critics are instruments of the philosopher, not philosophers themselves—even Kant, the great Chinaman of Königsberg, was in this view only a great critic rather than a genuine philosopher.
+Nietzsche refuses the reduction of philosophy to criticism. The philosophers of the future will have the critic's qualities, which set him apart from the skeptic — certainty as to standards of worth, the conscious employment of a unity of method, wary courage, standing alone and the capacity for self-responsibility — and will demand critical discipline of themselves, yet will not want to be called critics. Critics are instruments of the philosopher, and for that reason far from being philosophers themselves: even the great Chinaman of Königsberg was only a great critic.
 
 ## Mentioned In
 

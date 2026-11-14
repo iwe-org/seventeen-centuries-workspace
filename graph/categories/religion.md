@@ -12,8 +12,6 @@ Religion serves vastly different purposes across these works. Marcus Aurelius pr
 
 [God](../concepts/god.md)
 
-[Gods](../concepts/gods.md)
-
 [Christianity](../concepts/christianity.md)
 
 [Christian Faith](../concepts/christian-faith.md)

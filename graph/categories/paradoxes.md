@@ -20,6 +20,6 @@ Nietzsche's philosophy in Beyond Good and Evil proceeds through the exposure and
 
 [Exoteric and Esoteric Distinction](../concepts/exoteric-and-esoteric-distinction.md)
 
-[Inversion of Valuations](../concepts/inversion-of-valuations.md)
+[Transvaluation of Values](../concepts/transvaluation-of-values.md)
 
 [Faith and Knowledge](../concepts/faith-and-knowledge.md)

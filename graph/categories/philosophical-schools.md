@@ -12,15 +12,11 @@ Nietzsche examines ancient and modern philosophical schools primarily as symptom
 
 [Stoicism](../concepts/stoicism.md)
 
-[Stoics](../concepts/stoics.md)
-
 [Stoa](../concepts/stoa.md)
 
 [Platonists](../concepts/platonists.md)
 
 [Skepticism](../concepts/skepticism.md)
-
-[Skeptics](../concepts/skeptics.md)
 
 [Cynicism](../concepts/cynicism.md)
 

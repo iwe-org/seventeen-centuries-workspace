@@ -26,6 +26,4 @@ The concept of will spans these texts with varying interpretations of human agen
 
 [Free Will](../concepts/free-will.md)
 
-[Freedom of the Will](../concepts/freedom-of-the-will.md)
-
 [Paralysis of Will](../concepts/paralysis-of-will.md)

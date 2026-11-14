@@ -26,12 +26,8 @@ Nietzsche's philosophical vocabulary in Beyond Good and Evil centers on a radica
 
 [Philosophers of the Future](../concepts/philosophers-of-the-future.md)
 
-[New Philosophers](../concepts/new-philosophers.md)
-
 [Nihilism](../concepts/nihilism.md)
 
 [Decadence](../concepts/decadence.md)
 
 [Creation of Values](../concepts/creation-of-values.md)
-
-[Creator of Values](../concepts/creator-of-values.md)

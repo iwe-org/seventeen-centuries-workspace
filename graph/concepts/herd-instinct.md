@@ -8,11 +8,12 @@ works:
 
 ## Summary
 
-The herd-instinct is an innate need for obedience that has developed in mankind through millennia of living in groups where the many obey the few. This instinct manifests as an unconditional drive to follow commands from parents, teachers, laws, and public opinion, and has become so dominant that even rulers suffer from bad conscience and must pretend they too are merely obeying higher orders. Nietzsche argues that the preponderance of this instinct over the art of command explains the limitation and retrogression of human development, and that contemporary European morality is essentially herding-animal morality elevated to the status of the only acceptable morality.
+Zimmern's "herd-instinct" and "gregarious instinct" are one thing in Nietzsche. Because there have always been many who obey and few who command, the need for obedience is now innate in everyone as a kind of formal conscience, and it has outgrown the art of command so far that those who command must pretend to be executors of older orders. The same instinct draws the moral conclusions of the community out of fear: whatever lifts the individual above the herd — independent spirituality, the will to stand alone, strong passions — is called evil, and the mediocrity of desires is honoured. In Europe it now knows itself as morality itself.
 
 ## Mentioned In
 
 ### Beyond Good and Evil
 
 - [BGE 199](../passages/bge-199.md)
+- [BGE 201](../passages/bge-201.md)
 - [BGE 202](../passages/bge-202.md)

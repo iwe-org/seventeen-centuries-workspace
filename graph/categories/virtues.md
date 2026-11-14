@@ -28,6 +28,6 @@ The conception of virtue diverges radically across these texts. For Marcus Aurel
 
 [Truthfulness](../concepts/truthfulness.md)
 
-[Nobleness](../concepts/nobleness.md)
+[Nobility](../concepts/nobility.md)
 
 [Noble Soul](../concepts/noble-soul.md)

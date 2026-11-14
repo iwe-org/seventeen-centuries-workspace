@@ -42,7 +42,7 @@ type: hub
 
 [Epicurus](../concepts/epicurus.md)
 
-[Gods](../concepts/gods.md)
+[God](../concepts/god.md)
 
 [Impermanence](../concepts/impermanence.md)
 

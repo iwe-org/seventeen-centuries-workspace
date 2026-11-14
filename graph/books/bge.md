@@ -52,11 +52,7 @@ type: hub
 
 [Aristotle](../concepts/aristotle.md)
 
-[Ascetic](../concepts/ascetic.md)
-
 [Asceticism](../concepts/asceticism.md)
-
-[Ascetics](../concepts/ascetics.md)
 
 [Atavism](../concepts/atavism.md)
 
@@ -88,7 +84,7 @@ type: hub
 
 [Caesar](../concepts/caesar.md)
 
-[Caesar Borgia](../concepts/caesar-borgia.md)
+[Cesare Borgia](../concepts/cesare-borgia.md)
 
 [Categorical Imperative](../concepts/categorical-imperative.md)
 
@@ -124,13 +120,9 @@ type: hub
 
 [Creation of Values](../concepts/creation-of-values.md)
 
-[Creator of Values](../concepts/creator-of-values.md)
-
 [Creature and Creator](../concepts/creature-and-creator.md)
 
 [Criticism](../concepts/criticism.md)
-
-[Critics](../concepts/critics.md)
 
 [Cruelty](../concepts/cruelty.md)
 
@@ -156,7 +148,7 @@ type: hub
 
 [Disinterested Contemplation](../concepts/disinterested-contemplation.md)
 
-[Distinction of Rank](../concepts/distinction-of-rank.md)
+[Order of Rank](../concepts/rank.md)
 
 [Divine Justice](../concepts/divine-justice.md)
 
@@ -169,8 +161,6 @@ type: hub
 [Enlightenment](../concepts/enlightenment.md)
 
 [Epicureanism](../concepts/epicureanism.md)
-
-[Epicurism](../concepts/epicurism.md)
 
 [Epicurus](../concepts/epicurus.md)
 
@@ -200,10 +190,6 @@ type: hub
 
 [Free Will](../concepts/free-will.md)
 
-[Freedom of the Will](../concepts/freedom-of-the-will.md)
-
-[Freedom of Will](../concepts/freedom-of-will.md)
-
 [French Revolution](../concepts/french-revolution.md)
 
 [Fundamental Will of the Spirit](../concepts/fundamental-will-of-the-spirit.md)
@@ -228,8 +214,6 @@ type: hub
 
 [God](../concepts/god.md)
 
-[Gods](../concepts/gods.md)
-
 [Goethe](../concepts/goethe.md)
 
 [Golden Laughter](../concepts/golden-laughter.md)
@@ -238,15 +222,13 @@ type: hub
 
 [Grace](../concepts/grace.md)
 
-[Gradations of Rank](../concepts/gradations-of-rank.md)
-
 [Gratitude](../concepts/gratitude.md)
 
 [Greatness of Man](../concepts/greatness-of-man.md)
 
 [Gregarious European Man](../concepts/gregarious-european-man.md)
 
-[Gregarious Instinct](../concepts/gregarious-instinct.md)
+[Herd-Instinct](../concepts/herd-instinct.md)
 
 [Gregarious Utility](../concepts/gregarious-utility.md)
 
@@ -258,13 +240,11 @@ type: hub
 
 [Heinrich Heine](../concepts/heinrich-heine.md)
 
-[Henri Beyle](../concepts/henri-beyle.md)
+[Stendhal](../concepts/stendhal.md)
 
 [Heraclitus](../concepts/heraclitus.md)
 
 [Herbert Spencer](../concepts/herbert-spencer.md)
-
-[Herd-Instinct](../concepts/herd-instinct.md)
 
 [Herding-Animal Morality](../concepts/herding-animal-morality.md)
 
@@ -280,7 +260,7 @@ type: hub
 
 [Human Sacrifice](../concepts/human-sacrifice.md)
 
-[Human Soul](../concepts/human-soul.md)
+[Soul](../concepts/soul.md)
 
 [Hume](../concepts/hume.md)
 
@@ -306,7 +286,7 @@ type: hub
 
 [Interpretation](../concepts/interpretation.md)
 
-[Inversion of Valuations](../concepts/inversion-of-valuations.md)
+[Transvaluation of Values](../concepts/transvaluation-of-values.md)
 
 [Isolation](../concepts/isolation.md)
 
@@ -388,7 +368,7 @@ type: hub
 
 [Nature](../concepts/nature.md)
 
-[New Philosophers](../concepts/new-philosophers.md)
+[Philosophers of the Future](../concepts/philosophers-of-the-future.md)
 
 [New Testament](../concepts/new-testament.md)
 
@@ -396,13 +376,9 @@ type: hub
 
 [Nobility](../concepts/nobility.md)
 
-[Nobility/noble](../concepts/nobilitynoble.md)
-
 [Noble Caste](../concepts/noble-caste.md)
 
 [Noble Soul](../concepts/noble-soul.md)
-
-[Nobleness](../concepts/nobleness.md)
 
 [Nothingness](../concepts/nothingness.md)
 
@@ -428,15 +404,11 @@ type: hub
 
 [Pessimism](../concepts/pessimism.md)
 
-[Philosopher](../concepts/philosopher.md)
+[Philosophy](../concepts/philosophy.md)
 
 [Philosophers](../categories/philosophers.md)
 
-[Philosophers of the Future](../concepts/philosophers-of-the-future.md)
-
 [Philosophical Workers](../concepts/philosophical-workers.md)
-
-[Philosophy](../concepts/philosophy.md)
 
 [Physio-Psychology](../concepts/physio-psychology.md)
 
@@ -466,13 +438,9 @@ type: hub
 
 [Protestantism](../concepts/protestantism.md)
 
-[Psychologist](../concepts/psychologist.md)
-
 [Psychology](../concepts/psychology.md)
 
 [Puritanism](../concepts/puritanism.md)
-
-[Rank](../concepts/rank.md)
 
 [Recluse](../concepts/recluse.md)
 
@@ -532,8 +500,6 @@ type: hub
 
 [Skepticism](../concepts/skepticism.md)
 
-[Skeptics](../concepts/skeptics.md)
-
 [Slave-Insurrection in Morals](../concepts/slave-insurrection-in-morals.md)
 
 [Slave-Morality](../concepts/slave-morality.md)
@@ -544,8 +510,6 @@ type: hub
 
 [Solitude](../concepts/solitude.md)
 
-[Soul](../concepts/soul.md)
-
 [Soul-Atomism](../concepts/soul-atomism.md)
 
 [Sphinx](../concepts/sphinx.md)
@@ -554,13 +518,9 @@ type: hub
 
 [St. Augustine](../concepts/st-augustine.md)
 
-[Stendhal](../concepts/stendhal.md)
-
 [Stoa](../concepts/stoa.md)
 
 [Stoicism](../concepts/stoicism.md)
-
-[Stoics](../concepts/stoics.md)
 
 [Suffering](../concepts/suffering.md)
 
@@ -569,8 +529,6 @@ type: hub
 [Superstitions of Logicians](../concepts/superstitions-of-logicians.md)
 
 [Sympathy](../concepts/sympathy.md)
-
-[Synthetic Judgment A Priori](../concepts/synthetic-judgment-a-priori.md)
 
 [Synthetic Judgments A Priori](../concepts/synthetic-judgments-a-priori.md)
 
@@ -602,10 +560,6 @@ type: hub
 
 [Tragedy](../concepts/tragedy.md)
 
-[Transvaluation of All Ancient Values](../concepts/transvaluation-of-all-ancient-values.md)
-
-[Transvaluation of Values](../concepts/transvaluation-of-values.md)
-
 [Truth](../concepts/truth.md)
 
 [Truthfulness](../concepts/truthfulness.md)
@@ -627,8 +581,6 @@ type: hub
 [Virtue](../concepts/virtue.md)
 
 [Voltaire](../concepts/voltaire.md)
-
-[Wagner](../concepts/wagner.md)
 
 [Will](../concepts/will.md)
 

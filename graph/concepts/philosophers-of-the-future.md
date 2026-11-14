@@ -8,11 +8,12 @@ works:
 
 ## Summary
 
-The philosophers of the future are envisioned as truly free spirits who go beyond the shallow "freethinkers" advocating democratic equality and comfort. They will be daring experimenters and rigorous critics who embrace danger, solitude, and intellectual cruelty, seeking truth not for comfort but for knowledge itself. Unlike mere critics who serve as instruments of philosophy, these coming philosophers will embody the will to power and stand as antipodes to modern ideology and herd mentality.
+The philosophers of the future — the "new philosophers" — are the type Nietzsche sees coming. They will be free, very free spirits, the opposite of the levelling "free-thinkers" who want the green-meadow happiness of the herd; experimenters and critics in body and soul who will not be called critics. Strong and original enough to give the impulse to opposite valuations and to transvalue eternal ones, they are to teach man that his future is his will and to end the "frightful rule of folly and chance" that has been called history — which is why their possible absence or miscarriage is Nietzsche's real anxiety.
 
 ## Mentioned In
 
 ### Beyond Good and Evil
 
 - [BGE 44](../passages/bge-044.md)
+- [BGE 203](../passages/bge-203.md)
 - [BGE 210](../passages/bge-210.md)

@@ -28,8 +28,6 @@ type: hub
 
 [Herd-Instinct](../concepts/herd-instinct.md)
 
-[Gregarious Instinct](../concepts/gregarious-instinct.md)
-
 [Religious Neurosis](../concepts/religious-neurosis.md)
 
-[Human Soul](../concepts/human-soul.md)
+[Soul](../concepts/soul.md)

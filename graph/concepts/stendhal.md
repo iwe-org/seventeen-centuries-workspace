@@ -8,10 +8,11 @@ works:
 
 ## Summary
 
-Nietzsche cites Stendhal as "the last great psychologist" whose characterization of the good philosopher runs counter to German taste. Stendhal's formula requires the philosopher to be dry, clear, and without illusion, comparing the requisite character to that of a banker who has made a fortune and can therefore see clearly into what is. This portrait exemplifies the free-spirited philosopher who values severity and clarity over gentle, refined good-nature.
+Nietzsche cites Stendhal — Henri Beyle — as "the last great psychologist". His formula for a good philosopher runs against German taste: one must be dry, clear and without illusion, like a banker who has made his fortune and so sees clearly into what is. Nietzsche also celebrates him as the anticipatory man who ran with a Napoleonic tempo through several centuries of the European soul, a "strange Epicurean and man of interrogation" whom it took two generations to overtake.
 
 ## Mentioned In
 
 ### Beyond Good and Evil
 
 - [BGE 39](../passages/bge-039.md)
+- [BGE 254](../passages/bge-254.md)

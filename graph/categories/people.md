@@ -20,7 +20,7 @@ The three texts invoke historical figures as exemplars of human excellence and p
 
 [Alexander the Great](../concepts/alexander-the-great.md)
 
-[Caesar Borgia](../concepts/caesar-borgia.md)
+[Cesare Borgia](../concepts/cesare-borgia.md)
 
 [Frederick the Great](../concepts/frederick-the-great.md)
 

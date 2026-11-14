@@ -8,7 +8,7 @@ works:
 
 ## Summary
 
-Nietzsche distinguishes two forms of skepticism: a weak, paralyzing variety that serves as a "soporific" against decisive action, stemming from nervous debility and the blending of incompatible values; and a stronger, masculine skepticism exemplified by Frederick the Great, which "despises and nevertheless grasps," maintaining intellectual daring while keeping strict guard over the heart. The first form is symptomatic of European decadence and paralysis of will, while the second represents a dangerous but vital force that undermines dogma without losing itself in indecision.
+Nietzsche distinguishes two skepticisms. The first is a soporific — the most spiritual expression of nervous debility and sickliness, arising when long-separated races and classes blend, and showing as paralysis of will across Europe. The second is the stronger, manly skepticism of Frederick the Great, which "despises and nevertheless grasps", gives the spirit a dangerous liberty and keeps strict guard over the heart. The philosophers of the future may carry traits of the second kind, but as skeptics they are not yet described: what separates them, and the critic, from the skeptic is certainty in standards of worth, the conscious use of one method, wary courage, and the ability to stand alone and answer for themselves.
 
 ## Mentioned In
 
@@ -16,3 +16,4 @@ Nietzsche distinguishes two forms of skepticism: a weak, paralyzing variety that
 
 - [BGE 208](../passages/bge-208.md)
 - [BGE 209](../passages/bge-209.md)
+- [BGE 210](../passages/bge-210.md)
