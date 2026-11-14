@@ -1,0 +1,14 @@
+$schema: https://document-schema.org/draft/2026-06/schema
+description: >-
+  An essay written from the graph (articles/<slug>.md). It quotes the passages
+  and links every quotation to the passage it comes from.
+frontmatter:
+  type: object
+  required: [type]
+  additionalProperties: false
+  properties:
+    type: { const: article }
+sections:
+  - maxContains: 1
+    description: an article is one "# Title" heading holding its sections
+additionalSections: false

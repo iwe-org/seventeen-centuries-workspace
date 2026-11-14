@@ -1,0 +1,24 @@
+name: Passages
+columns: [work]
+fields:
+  type:
+    hidden: true
+  work:
+    title: Work
+    description: The book the passage belongs to.
+    values:
+      meditations:
+        title: Meditations
+        description: Marcus Aurelius, tr. George Long.
+        color: green
+      prince:
+        title: The Prince
+        description: Niccolò Machiavelli, tr. W. K. Marriott.
+        color: red
+      bge:
+        title: Beyond Good and Evil
+        description: Friedrich Nietzsche, tr. Helen Zimmern.
+        color: purple
+  ref:
+    title: Reference
+    description: The citation within the work, such as IV.3, XXV or 146.

@@ -1,0 +1,5 @@
+name: Articles
+columns: []
+fields:
+  type:
+    hidden: true

@@ -1,0 +1,17 @@
+---
+type: concept
+works:
+- bge
+---
+
+# Morality of Love to One's Neighbour
+
+## Summary
+
+Nietzsche argues that a morality of love to one's neighbour cannot exist as long as moral estimates serve only gregarious utility and community preservation. Such love is always secondary, partly conventional, and manifested primarily in relation to fear of one's neighbour. Only after society feels secure against external dangers do strong and dangerous instincts become branded as immoral, allowing gentler virtues like sympathy and mutual assistance to attain moral distinction.
+
+## Mentioned In
+
+### Beyond Good and Evil
+
+- [BGE 201](../passages/bge-201.md)

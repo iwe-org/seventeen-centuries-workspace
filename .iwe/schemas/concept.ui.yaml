@@ -1,0 +1,21 @@
+name: Concepts
+columns: [works]
+fields:
+  type:
+    hidden: true
+  works:
+    title: Works
+    description: The books whose passages this concept links.
+    values:
+      meditations:
+        title: Meditations
+        description: Marcus Aurelius, tr. George Long.
+        color: green
+      prince:
+        title: The Prince
+        description: Niccolò Machiavelli, tr. W. K. Marriott.
+        color: red
+      bge:
+        title: Beyond Good and Evil
+        description: Friedrich Nietzsche, tr. Helen Zimmern.
+        color: purple
