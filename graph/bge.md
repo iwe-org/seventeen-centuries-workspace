@@ -2,6 +2,8 @@
 
 ## Parts
 
+[Preface](bge-preface.md)
+
 [I. Prejudices of Philosophers](bge-part-01.md)
 
 [II. The Free Spirit](bge-part-02.md)
@@ -19,6 +21,8 @@
 [VIII. Peoples and Countries](bge-part-08.md)
 
 [IX. What Is Noble?](bge-part-09.md)
+
+[From the Heights](bge-from-the-heights.md)
 
 ## Concepts
 

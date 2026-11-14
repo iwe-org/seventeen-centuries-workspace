@@ -4,6 +4,9 @@ version = 4
 refs_extension = ".md"
 date_format = "%b %d, %Y"
 
+[markdown.formatting]
+preserve_line_breaks = true
+
 [workspace]
 path = "graph"
 date_format = "%Y-%m-%d"
