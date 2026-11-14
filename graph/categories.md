@@ -36,7 +36,7 @@ type: hub
 
 [Self Development](categories/self-development.md)
 
-[States Of Being](categories/states-of-being.md)
+[States of Being](categories/states-of-being.md)
 
 [Virtues](categories/virtues.md)
 

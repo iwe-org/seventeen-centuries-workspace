@@ -2,7 +2,7 @@
 type: hub
 ---
 
-# 🌗 States Of Being
+# 🌗 States of Being
 
 ## Summary
 
