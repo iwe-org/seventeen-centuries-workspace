@@ -1,0 +1,27 @@
+$schema: https://document-schema.org/draft/2026-06/schema
+description: >-
+  One passage of a book (passages/<key>.md): a section of the Meditations, a
+  chapter of The Prince, an aphorism of Beyond Good and Evil. A single
+  "# <citation>" title holds the translator's text and nothing else; the text
+  is never rewritten. work names the book and ref the citation within it.
+maxDepth: 1
+frontmatter:
+  type: object
+  required: [type, work, ref]
+  additionalProperties: false
+  properties:
+    type: { const: passage }
+    work:
+      enum: [meditations, prince, bge]
+      description: "work is the book the passage belongs to: meditations, prince or bge"
+    ref:
+      type: string
+      minLength: 1
+      description: >-
+        ref is the citation within the work as a string: IV.3 for the
+        Meditations, XXV for The Prince, '146' for Beyond Good and Evil,
+        Preface or Dedication for the unnumbered texts
+sections:
+  - maxContains: 1
+    description: a passage is one "# <citation>" heading holding the text
+additionalSections: false

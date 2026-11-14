@@ -1,0 +1,8 @@
+name: Notes
+columns: [created]
+fields:
+  type:
+    hidden: true
+  created:
+    title: Created
+    description: The day the note was written (YYYY-MM-DD).

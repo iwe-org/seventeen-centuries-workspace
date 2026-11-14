@@ -1,0 +1,9 @@
+---
+type: passage
+work: meditations
+ref: X.22
+---
+
+# Meditations X.22
+
+That is for the good of each thing, which the universal [nature](../concepts/nature.md) brings to each. And it is for its good at the time when nature brings it.

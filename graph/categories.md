@@ -1,39 +1,43 @@
+---
+type: hub
+---
+
 # 🗂️ Categories
 
-[Aesthetics](aesthetics.md)
+[Aesthetics](categories/aesthetics.md)
 
-[Ancient Cultures](ancient-cultures.md)
+[Peoples and Cultures](categories/peoples-and-cultures.md)
 
-[Epistemology](epistemology.md)
+[Epistemology](categories/epistemology.md)
 
-[Gender Relationships](gender-relationships.md)
+[Gender Relationships](categories/gender-relationships.md)
 
-[Metaphysics](metaphysics.md)
+[Metaphysics](categories/metaphysics.md)
 
-[Moral Systems](moral-systems.md)
+[Moral Systems](categories/moral-systems.md)
 
-[Nietzschean Concepts](nietzschean-concepts.md)
+[Nietzschean Concepts](categories/nietzschean-concepts.md)
 
-[Paradoxes](paradoxes.md)
+[Paradoxes](categories/paradoxes.md)
 
-[People](people.md)
+[People](categories/people.md)
 
-[Philosophers](philosophers.md)
+[Philosophers](categories/philosophers.md)
 
-[Philosophical Schools](philosophical-schools.md)
+[Philosophical Schools](categories/philosophical-schools.md)
 
-[Politics](politics.md)
+[Politics](categories/politics.md)
 
-[Power Dynamics](power-dynamics.md)
+[Power Dynamics](categories/power-dynamics.md)
 
-[Religion](religion.md)
+[Religion](categories/religion.md)
 
-[Psychology](psychology-category.md)
+[Psychology and Instinct](categories/psychology.md)
 
-[Self Development](self-development.md)
+[Self Development](categories/self-development.md)
 
-[States Of Being](states-of-being.md)
+[States of Being](categories/states-of-being.md)
 
-[Virtues](virtues.md)
+[Virtues](categories/virtues.md)
 
-[Will Concepts](will-concepts.md)
+[Will Concepts](categories/will-concepts.md)

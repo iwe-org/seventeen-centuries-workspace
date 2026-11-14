@@ -1,0 +1,19 @@
+$schema: https://document-schema.org/draft/2026-06/schema
+description: >-
+  A note of the reader's own (notes/<slug>.md). It links the passage or
+  passages it is about inside its sentences and is listed in the Notes hub.
+  created is the day it was written.
+frontmatter:
+  type: object
+  required: [type, created]
+  additionalProperties: false
+  properties:
+    type: { const: note }
+    created:
+      type: string
+      format: date
+      description: created is the YYYY-MM-DD date the note was written
+sections:
+  - maxContains: 1
+    description: a note is one "# Title" heading
+additionalSections: false

@@ -1,0 +1,16 @@
+$schema: https://document-schema.org/draft/2026-06/schema
+description: >-
+  A page that lists other documents with inclusion links: the start page,
+  Categories and each category (categories/<slug>.md), the three books and
+  their books and parts (books/<key>.md), and Notes.
+maxDepth: 2
+frontmatter:
+  type: object
+  required: [type]
+  additionalProperties: false
+  properties:
+    type: { const: hub }
+sections:
+  - maxContains: 1
+    description: a hub is one "# Title" heading
+additionalSections: false

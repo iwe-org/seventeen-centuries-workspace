@@ -1,51 +1,85 @@
 # Agent guide
 
-This workspace is a knowledge graph of three public-domain books: Marcus
-Aurelius's *Meditations*, Machiavelli's *The Prince* and Nietzsche's *Beyond
-Good and Evil*. You help the user read it, answer questions across the books,
-and write new documents on top of it. Every document lives in `graph/`, and a
-document's key is its file name without `.md`.
+This workspace is a reading graph of three public-domain books: Marcus
+Aurelius's *Meditations* (tr. George Long), Machiavelli's *The Prince* (tr.
+W. K. Marriott) and Nietzsche's *Beyond Good and Evil* (tr. Helen Zimmern).
+You help the user read it, answer questions across the books, and keep their
+notes. Documents live in `graph/`; a document's key is its path under `graph/`
+without `.md`.
 
-## How the graph is built
+## What is in the graph
 
-- **Start page.** `index` links the three books, the categories and the
-  articles. It is the only root.
-- **Books.** `meditations` links its twelve books (`meditations-book-01` to
-  `meditations-book-12`), and each of those links its passages
-  (`meditations-BBB-PPP`, titled `III.7`). `bge` links its nine parts
-  (`bge-part-01` to `bge-part-09`), and each part links its aphorisms
-  (`bge-NNN`, plus `bge-065a` and `bge-073a`). `prince` links its dedication
-  (`prince-00-dedication`) and its 26 chapters (`prince-NN`).
-- **Fragments.** A passage, aphorism or chapter holds the book's text and
-  nothing else, with inline links to the concepts it mentions. The text is the
-  source edition's: never rewrite, summarize or modernize it in place.
-- **Concepts.** One document per idea, person, school or theme (`virtue`,
-  `will-to-power`, `socrates`). It opens with `## Summary`, a comparison of how
-  the books use it, followed by `## Mentioned In`, which links every fragment
-  that mentions it, grouped by book.
-- **Categories.** `categories` links the thematic groups (`philosophers`,
-  `virtues`, `politics`, …), and each group links its concepts. A concept may
-  sit in several groups.
-- **Articles.** Essays written from the graph, such as
-  `virtue-across-centuries`, listed under `## Articles` in `index`. They quote
-  the fragments and link each quotation to its fragment.
+| Kind | Key | Frontmatter |
+| --- | --- | --- |
+| passage | `passages/…` | `type: passage`, `work: meditations \| prince \| bge`, `ref` |
+| concept | `concepts/<slug>` | `type: concept`, `works` (the books it links) |
+| hub | `index`, `categories`, `notes`, `categories/<slug>`, `books/<key>` | `type: hub` |
+| article | `articles/<slug>` | `type: article` |
+| note | `notes/<slug>` | `type: note`, `created` (YYYY-MM-DD) |
+
+- **Passages.** 843 documents, each holding the translator's text and nothing
+  else. `passages/meditations-BBB-NNN` is book and paragraph, three digits
+  each (`meditations-004-003`, titled "Meditations IV.3"). `passages/prince-NN`
+  is a chapter, and `prince-00-dedication` the dedication. `passages/bge-NNN`
+  is an aphorism (titled "BGE 146"); `bge-065a`, `bge-073a` and `bge-237a` are
+  numbered so in the edition, `bge-preface` is the Preface and
+  `bge-from-the-heights` the closing poem. `ref` is the citation inside the
+  work: `IV.3`, `XXV`, `146`, `Preface`.
+- **Meditations numbers are paragraphs of this edition.** The Standard Ebooks
+  text prints no section numbers, so `IV.51` is the 51st paragraph of Book IV,
+  which other editions number IV.49. A verse Marcus quotes is kept with the
+  paragraph before it.
+- **What a passage links.** Words in the text link the concepts that list the
+  passage. A passage links no other passage, except Long's own
+  cross-references in `meditations-012-038`. Passages are never rewritten,
+  summarized, modernized or annotated in place.
+- **Concepts.** 331 documents, one per idea, person, school or theme.
+  `## Summary` says how each author uses it; `## Mentioned In` lists the
+  passages under `### Meditations`, `### The Prince` and
+  `### Beyond Good and Evil`. `works` names the books that have a group: when
+  a concept gains or loses a book, update `works` and the `## Concepts` list
+  of that book's hub.
+- **Coverage.** 42 concepts link all three books, 13 link two, and 276 belong
+  to one book, most of them to Nietzsche. A list holds the passages someone
+  judged relevant, about twenty a book at most. Concept lists are a starting
+  point: before stating what an author says, also full-text search each book
+  for the term and its synonyms, and say so when an author has no passage on
+  it.
+- **Hubs.** `index` is the only root. It links the books (`books/meditations`,
+  `books/prince`, `books/bge`, and under them `books/meditations-book-01` to
+  `-12` and `books/bge-part-01` to `-09`), `categories` (19 groups in
+  `categories/`; every concept is in at least one), the articles and `notes`.
 
 ## Answering a question
 
-1. Find the concepts the question is about, and read their summaries.
-2. Follow `## Mentioned In` to the fragments, and read the passages themselves
-   before you state what an author thinks.
-3. Quote the text, and link every quotation to the fragment it comes from.
+1. Read the concept documents the question is about.
+2. Search each book: `iwe find --lexical "<terms>" --filter 'work: prince' -f keys`,
+   or `grep -ilE '<terms>' graph/passages/prince-*.md`.
+3. Read the passages before you state what an author thinks.
+4. Quote the translator's words exactly and link each quotation to its passage.
+
+Cite with the translator: *Meditations* IV.3, tr. Long; *The Prince* XXV, tr.
+Marriott; *Beyond Good and Evil* 146, tr. Zimmern. A Meditations number is a
+paragraph of this edition; say so when the user compares it with another.
+
+The skills `trace-concept`, `compare-authors` and `annotate` hold the steps.
+
+## The user's notes
+
+A note is `graph/notes/<slug>.md` with `type: note` and `created`. It links
+the passage or passages it is about inside its sentences, and is listed on a
+line of its own in `graph/notes.md`. Never write inside a passage.
 
 ## Adding to the graph
 
-- **A new concept.** Create `graph/<slug>.md` with `# Title`, `## Summary` and
-  `## Mentioned In` in the shape above. Add a link to it in every fragment that
-  mentions it, and list it in the category it belongs to.
-- **A new article.** Create `graph/<slug>.md` and link it under `## Articles`
-  in `index` and under `## Articles` in the concepts it is mainly about.
-- **Links.** Use markdown links, `[Title](key.md)`. A link on a line of its
-  own makes the target a child of the document; a link inside a sentence is a
-  reference.
+- **A concept.** `graph/concepts/<slug>.md` with `type: concept`, `works`,
+  `# Title`, `## Summary` and `## Mentioned In` in the shape above. List it in
+  a category and in the hub of each book it links.
+- **An article.** `graph/articles/<slug>.md` with `type: article`, linked
+  under `## Articles` in `graph/index.md`.
+- **Links.** Markdown links only, `[Title](../concepts/virtue.md)`, relative
+  to the document; never wiki links. A link on a line of its own, or alone in
+  a list item, makes the target a child of the document; a link inside a
+  sentence is a reference.
 
-Run `iwe normalize` after a batch of edits to keep the formatting consistent.
+Run `iwe schema validate` and `iwe normalize` after a batch of edits.

@@ -4,6 +4,9 @@ version = 4
 refs_extension = ".md"
 date_format = "%b %d, %Y"
 
+[markdown.formatting]
+preserve_line_breaks = true
+
 [workspace]
 path = "graph"
 date_format = "%Y-%m-%d"
@@ -69,3 +72,18 @@ document_template = """
 
 {{content}}
 """
+
+[schemas.passage]
+match = "passages/**"
+
+[schemas.concept]
+match = "concepts/**"
+
+[schemas.hub]
+match = ["index", "categories", "notes", "categories/**", "books/**"]
+
+[schemas.article]
+match = "articles/**"
+
+[schemas.note]
+match = "notes/**"

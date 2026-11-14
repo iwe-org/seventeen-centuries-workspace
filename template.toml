@@ -1,8 +1,8 @@
 format = 1
 id = "seventeen-centuries"
 name = "Seventeen Centuries"
-description = "Marcus Aurelius, Machiavelli and Nietzsche as one graph: every passage a document, linked through 300+ shared concepts."
-version = "1.1.0"
+description = "Marcus Aurelius, Machiavelli and Nietzsche as one graph: 843 passages and 331 concepts, 42 of them traced through all three books."
+version = "2.0.0"
 authors = ["iWe"]
 license = "CC-BY-4.0"
 exclude = ["README.md", "CHANGELOG.md"]
