@@ -17,3 +17,17 @@ Nietzsche's aesthetic theory in Beyond Good and Evil centers on the relationship
 [Nuance](../concepts/nuance.md)
 
 [Genius of the Heart](../concepts/genius-of-the-heart.md)
+
+[Disinterested Contemplation](../concepts/disinterested-contemplation.md)
+
+[Gai Saber](../concepts/gai-saber.md)
+
+[Gangasrotogati](../concepts/gangasrotogati.md)
+
+[Mozart](../concepts/mozart.md)
+
+[Richard Wagner](../concepts/richard-wagner.md)
+
+[Schumann](../concepts/schumann.md)
+
+[Tempo of Style](../concepts/tempo-of-style.md)

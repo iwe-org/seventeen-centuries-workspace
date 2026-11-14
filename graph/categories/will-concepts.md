@@ -27,3 +27,9 @@ The concept of will spans these texts with varying interpretations of human agen
 [Free Will](../concepts/free-will.md)
 
 [Paralysis of Will](../concepts/paralysis-of-will.md)
+
+[Fundamental Will of the Spirit](../concepts/fundamental-will-of-the-spirit.md)
+
+[Will Negation](../concepts/will-negation.md)
+
+[Will to Ignorance](../concepts/will-to-ignorance.md)

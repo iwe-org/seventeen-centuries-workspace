@@ -31,3 +31,9 @@ The three texts treat human states of being as revelations of character and spir
 [Tranquility](../concepts/tranquility.md)
 
 [Life](../concepts/life.md)
+
+[Cave](../concepts/cave.md)
+
+[Disillusion](../concepts/disillusion.md)
+
+[Profound](../concepts/profound.md)

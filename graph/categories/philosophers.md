@@ -50,8 +50,18 @@ Philosophers appear across these texts as both revered exemplars and targets of 
 
 [Epictetus](../concepts/epictetus.md)
 
-## Mentioned In
+[Auguste Comte](../concepts/auguste-comte.md)
 
-- [BGE 42](../passages/bge-042.md)
-- [BGE 43](../passages/bge-043.md)
-- [BGE 211](../passages/bge-211.md)
+[Giordano Bruno](../concepts/giordano-bruno.md)
+
+[Herbert Spencer](../concepts/herbert-spencer.md)
+
+[Jeremy Bentham](../concepts/jeremy-bentham.md)
+
+[John Stuart Mill](../concepts/john-stuart-mill.md)
+
+[Philosophy](../concepts/philosophy.md)
+
+[Schelling](../concepts/schelling.md)
+
+[St. Augustine](../concepts/st-augustine.md)

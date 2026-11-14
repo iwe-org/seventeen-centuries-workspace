@@ -6,7 +6,7 @@ type: hub
 
 [Aesthetics](categories/aesthetics.md)
 
-[Ancient Cultures](categories/ancient-cultures.md)
+[Peoples and Cultures](categories/peoples-and-cultures.md)
 
 [Epistemology](categories/epistemology.md)
 

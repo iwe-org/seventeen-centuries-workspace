@@ -27,3 +27,13 @@ Political organization appears in these texts as fundamentally concerned with hi
 [Plebeianism](../concepts/plebeianism.md)
 
 [The Herd](../concepts/the-herd.md)
+
+[Ability](../concepts/ability.md)
+
+[Fortune](../concepts/fortune.md)
+
+[Gregarious European Man](../concepts/gregarious-european-man.md)
+
+[Liberality](../concepts/liberality.md)
+
+[Mercenaries](../concepts/mercenaries.md)

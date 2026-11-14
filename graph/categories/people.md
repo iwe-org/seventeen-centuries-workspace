@@ -43,3 +43,45 @@ The three texts invoke historical figures as exemplars of human excellence and p
 [Goethe](../concepts/goethe.md)
 
 [Beethoven](../concepts/beethoven.md)
+
+[Alcibiades](../concepts/alcibiades.md)
+
+[Alexander the Sixth](../concepts/alexander-the-sixth.md)
+
+[Aristophanes](../concepts/aristophanes.md)
+
+[Boscovich](../concepts/boscovich.md)
+
+[Buddha](../concepts/buddha.md)
+
+[Copernicus](../concepts/copernicus.md)
+
+[Cyrus](../concepts/cyrus.md)
+
+[Darwin](../concepts/darwin.md)
+
+[Ernest Renan](../concepts/ernest-renan.md)
+
+[Galiani](../concepts/galiani.md)
+
+[Hamlet](../concepts/hamlet.md)
+
+[Heinrich Heine](../concepts/heinrich-heine.md)
+
+[Lessing](../concepts/lessing.md)
+
+[Madame de Guyon](../concepts/madame-de-guyon.md)
+
+[Madame de Stael](../concepts/madame-de-stael.md)
+
+[Mozart](../concepts/mozart.md)
+
+[Richard Wagner](../concepts/richard-wagner.md)
+
+[Sainte-Beuve](../concepts/sainte-beuve.md)
+
+[Schumann](../concepts/schumann.md)
+
+[Stendhal](../concepts/stendhal.md)
+
+[Tacitus](../concepts/tacitus.md)

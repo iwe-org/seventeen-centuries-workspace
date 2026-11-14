@@ -33,3 +33,13 @@ The metaphysical concerns in these texts range from Stoic acceptance of cosmic o
 [Change](../concepts/change.md)
 
 [Impermanence](../concepts/impermanence.md)
+
+[Fortune](../concepts/fortune.md)
+
+[Homo Natura](../concepts/homo-natura.md)
+
+[Metaphysicians](../concepts/metaphysicians.md)
+
+[Providence](../concepts/providence.md)
+
+[Teleological Principles](../concepts/teleological-principles.md)

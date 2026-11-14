@@ -31,3 +31,9 @@ The conception of virtue diverges radically across these texts. For Marcus Aurel
 [Nobility](../concepts/nobility.md)
 
 [Noble Soul](../concepts/noble-soul.md)
+
+[Ability](../concepts/ability.md)
+
+[Intellectual Conscience](../concepts/intellectual-conscience.md)
+
+[Liberality](../concepts/liberality.md)

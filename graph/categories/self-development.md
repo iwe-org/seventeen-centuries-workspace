@@ -29,3 +29,15 @@ Self-development emerges in these texts as a demanding path reserved for the few
 [Recluse](../concepts/recluse.md)
 
 [Creature and Creator](../concepts/creature-and-creator.md)
+
+[Asceticism](../concepts/asceticism.md)
+
+[Greatness of Man](../concepts/greatness-of-man.md)
+
+[Labyrinth](../concepts/labyrinth.md)
+
+[Ruling Faculty](../concepts/ruling-faculty.md)
+
+[Self-Surmounting of Man](../concepts/self-surmounting-of-man.md)
+
+[Self-Tyranny](../concepts/self-tyranny.md)
