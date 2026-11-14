@@ -22,7 +22,7 @@ The concepts through which the books look inside a human being: fear, shame, suf
 
 [Suffering](../concepts/suffering.md)
 
-[Sympathy](../concepts/sympathy.md)
+[Pity and Sympathy](../concepts/sympathy.md)
 
 [Shame](../concepts/shame.md)
 
@@ -59,3 +59,13 @@ The concepts through which the books look inside a human being: fear, shame, suf
 [Superficiality](../concepts/superficiality.md)
 
 [Taste for the Unconditional](../concepts/taste-for-the-unconditional.md)
+
+[Anger](../concepts/anger.md)
+
+[Fame and Glory](../concepts/fame.md)
+
+[Flattery](../concepts/flattery.md)
+
+[Hatred and Contempt](../concepts/hatred.md)
+
+[Pride and Vanity](../concepts/vanity.md)

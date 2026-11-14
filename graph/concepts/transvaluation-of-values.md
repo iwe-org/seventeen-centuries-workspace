@@ -8,7 +8,7 @@ works:
 
 ## Summary
 
-Nietzsche names three transvaluations. The Jewish prophets fused "rich", "godless", "wicked", "violent" and "sensual" into one and made "poor" a synonym of "saint" and "friend" — an inversion of valuations that gave life on earth a new and dangerous charm and began the slave-insurrection in morals. The formula "God on the Cross" promised a transvaluation of all ancient values, the Orient's revenge on Rome and its noble, light-minded toleration. And the task still to come belongs to new philosophers, strong enough to give the impulse to opposite valuations and "transvalue and invert eternal valuations", under whose pressure and hammer a conscience is steeled to bear the weight of that responsibility.
+Nietzsche names three transvaluations. The Jewish prophets fused "rich", "godless", "wicked", "violent" and "sensual" into one and made "poor" a synonym of "saint" and "friend" — an inversion of valuations that gave life on earth a new and dangerous charm and began the slave-insurrection in morals. The formula "God on the Cross" promised a transvaluation of all ancient values, the Orient's revenge on Rome and its noble, light-minded toleration. And the task still to come belongs to new philosophers, strong enough to give the impulse to opposite valuations and to transvalue and invert "eternal valuations", under whose pressure and hammer a conscience is steeled to bear the weight of that responsibility.
 
 ## Mentioned In
 

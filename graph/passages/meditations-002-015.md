@@ -6,4 +6,4 @@ ref: II.15
 
 # Meditations II.15
 
-Remember that all is opinion. For what was said by the Cynic Monimus is manifest: and manifest too is the use of what was said, if a man receives what may be got out of it as far as it is true.
+Remember that all is [opinion](../concepts/opinion.md). For what was said by the Cynic Monimus is manifest: and manifest too is the use of what was said, if a man receives what may be got out of it as far as it is true.

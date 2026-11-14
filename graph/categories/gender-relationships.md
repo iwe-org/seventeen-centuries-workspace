@@ -16,8 +16,12 @@ What the books say about love and about the relations between people and between
 
 [Passion for God](../concepts/passion-for-god.md)
 
-[Sympathy](../concepts/sympathy.md)
+[Pity and Sympathy](../concepts/sympathy.md)
 
 [Amour-Passion](../concepts/amour-passion.md)
 
 [Madame de Stael](../concepts/madame-de-stael.md)
+
+[Friendship](../concepts/friendship.md)
+
+[Love](../concepts/love.md)

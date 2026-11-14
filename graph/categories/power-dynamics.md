@@ -30,10 +30,12 @@ Power and its distribution form a central preoccupation across these works. Mach
 
 [Master](../concepts/master.md)
 
-[Obedience](../concepts/obedience.md)
+[Obedience and Command](../concepts/obedience.md)
 
 [Aristocratic Values](../concepts/aristocratic-values.md)
 
 [Beast of Prey](../concepts/beast-of-prey.md)
 
 [Man of Prey](../concepts/man-of-prey.md)
+
+[Rulers and Princes](../concepts/rulers.md)

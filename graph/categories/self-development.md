@@ -41,3 +41,7 @@ Self-development emerges in these texts as a demanding path reserved for the few
 [Self-Surmounting of Man](../concepts/self-surmounting-of-man.md)
 
 [Self-Tyranny](../concepts/self-tyranny.md)
+
+[Freedom](../concepts/freedom.md)
+
+[Self-Mastery](../concepts/self-mastery.md)

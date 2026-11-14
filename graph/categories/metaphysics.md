@@ -30,7 +30,7 @@ The metaphysical concerns in these texts range from Stoic acceptance of cosmic o
 
 [Nothingness](../concepts/nothingness.md)
 
-[Change](../concepts/change.md)
+[Change and Time](../concepts/change.md)
 
 [Impermanence](../concepts/impermanence.md)
 
@@ -43,3 +43,5 @@ The metaphysical concerns in these texts range from Stoic acceptance of cosmic o
 [Providence](../concepts/providence.md)
 
 [Teleological Principles](../concepts/teleological-principles.md)
+
+[Necessity](../concepts/necessity.md)

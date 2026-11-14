@@ -60,7 +60,7 @@ Philosophers appear across these texts as both revered exemplars and targets of 
 
 [John Stuart Mill](../concepts/john-stuart-mill.md)
 
-[Philosophy](../concepts/philosophy.md)
+[Philosophy and Philosophers](../concepts/philosophy.md)
 
 [Schelling](../concepts/schelling.md)
 

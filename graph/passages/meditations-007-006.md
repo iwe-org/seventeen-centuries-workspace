@@ -6,4 +6,4 @@ ref: VII.6
 
 # Meditations VII.6
 
-How many after being celebrated by fame have been given up to oblivion; and how many who have celebrated the fame of others have long been dead.
+How many after being celebrated by [fame](../concepts/fame.md) have been given up to oblivion; and how many who have celebrated the fame of others have long been dead.

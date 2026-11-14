@@ -37,3 +37,15 @@ Political organization appears in these texts as fundamentally concerned with hi
 [Liberality](../concepts/liberality.md)
 
 [Mercenaries](../concepts/mercenaries.md)
+
+[Flattery](../concepts/flattery.md)
+
+[Freedom](../concepts/freedom.md)
+
+[Law](../concepts/law.md)
+
+[Rulers and Princes](../concepts/rulers.md)
+
+[The People](../concepts/the-people.md)
+
+[War](../concepts/war.md)

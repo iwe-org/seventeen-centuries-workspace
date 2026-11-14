@@ -37,3 +37,7 @@ The three texts treat human states of being as revelations of character and spir
 [Disillusion](../concepts/disillusion.md)
 
 [Profound](../concepts/profound.md)
+
+[Fame and Glory](../concepts/fame.md)
+
+[Happiness](../concepts/happiness.md)

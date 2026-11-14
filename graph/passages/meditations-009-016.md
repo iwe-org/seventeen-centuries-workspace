@@ -6,4 +6,4 @@ ref: IX.16
 
 # Meditations IX.16
 
-Not in passivity, but in activity lie the evil and the good of the rational social animal, just as his virtue and his vice lie not in passivity, but in activity.
+Not in passivity, but in activity lie the [evil](../concepts/good-and-evil.md) and the good of the rational social animal, just as his [virtue](../concepts/virtue.md) and his vice lie not in passivity, but in activity.

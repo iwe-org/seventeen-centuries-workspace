@@ -54,7 +54,7 @@ The epistemological concerns across these texts reveal a tension between the pur
 
 [Perspective Estimates and Semblances](../concepts/perspective-estimates-and-semblances.md)
 
-[Philosophy](../concepts/philosophy.md)
+[Philosophy and Philosophers](../concepts/philosophy.md)
 
 [Science](../concepts/science.md)
 

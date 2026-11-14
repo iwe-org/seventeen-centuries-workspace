@@ -12,7 +12,7 @@ The conception of virtue diverges radically across these texts. For Marcus Aurel
 
 [Virtue](../concepts/virtue.md)
 
-[Honesty](../concepts/honesty.md)
+[Honesty and Deception](../concepts/honesty.md)
 
 [Justice](../concepts/justice.md)
 
@@ -37,3 +37,11 @@ The conception of virtue diverges radically across these texts. For Marcus Aurel
 [Intellectual Conscience](../concepts/intellectual-conscience.md)
 
 [Liberality](../concepts/liberality.md)
+
+[Courage](../concepts/courage.md)
+
+[Duty](../concepts/duty.md)
+
+[Self-Mastery](../concepts/self-mastery.md)
+
+[Wisdom](../concepts/wisdom.md)

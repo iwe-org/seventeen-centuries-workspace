@@ -10,7 +10,7 @@ Religion serves vastly different purposes across these works. Marcus Aurelius pr
 
 ## Concepts
 
-[God](../concepts/god.md)
+[God and the Gods](../concepts/god.md)
 
 [Christianity](../concepts/christianity.md)
 
@@ -83,3 +83,5 @@ Religion serves vastly different purposes across these works. Marcus Aurelius pr
 [Tempter-God](../concepts/tempter-god.md)
 
 [Vedanta Philosophy](../concepts/vedanta-philosophy.md)
+
+[Religion](../concepts/religion.md)

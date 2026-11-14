@@ -11,7 +11,7 @@ ref: From the Heights
 Midday of Life! Oh, season of delight!\
 My summer's park!\
 Uneaseful joy to look, to lurk, to hark—\
-I peer for friends, am ready day and night—\
+I peer for [friends](../concepts/friendship.md), am ready day and night—\
 Where linger ye, my friends? The time is right!
 
 2
@@ -35,7 +35,7 @@ My honey—who hath sipped its fragrancy?
 Friends, ye are there! Woe me—yet I am not\
 He whom ye seek?\
 Ye stare and stop—better your wrath could speak!\
-I am not I? Hand, gait, face, changed? And what\
+I am not I? Hand, gait, face, [changed](../concepts/change.md)? And what\
 I am, to you my friends, now am I not?
 
 5

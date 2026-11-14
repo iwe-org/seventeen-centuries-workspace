@@ -6,4 +6,4 @@ ref: IV.24
 
 # Meditations IV.24
 
-Do not be whirled about, but in every movement have respect to justice, and on the occasion of every impression maintain the faculty of comprehension or understanding.
+Do not be whirled about, but in every movement have respect to [justice](../concepts/justice.md), and on the occasion of every impression maintain the faculty of comprehension or understanding.
